@@ -91,10 +91,6 @@ frontend/
 
 1. Clone the repository:
 
-   ```
-   git clone https://github.com/kepsteen/Nemonx-demo
-   cd nemonx-demo
-   ```
 
 2. Set up the backend:
 
